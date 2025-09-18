@@ -7,6 +7,7 @@
 ### 已经存在的项目模版
 
 - [nextjs-website](https://github.com/0human/nextjs-website)
+- [html-website](https://github.com/0human/html-website)
 
 如果需要基于其他项目模版的测试项目在 [issue](https://github.com/0human/.github/issues) 中创建
 
